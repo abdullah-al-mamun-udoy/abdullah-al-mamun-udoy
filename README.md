@@ -26,8 +26,3 @@ Open to Android and beginner-level DevOps projects.
 
 Email: [mamunudoy.au@gmail.com](mailto:mamunudoy.au@gmail.com)
 LinkedIn: https://linkedin.com/in/mamun-udoy-526b66227
-
-## GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=abdullah-al-mamun-udoy
-https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-mamun-udoy&layout=compact
